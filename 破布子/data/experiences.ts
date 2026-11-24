@@ -1,0 +1,1 @@
+export const experiences = { price: 1280, capacity: 40, minimum: 20, sessions: ['上午場 09:00–13:00', '下午場 14:00–18:00'], itinerary: ['園區惡地導覽', '破布子親手採摘', '共同脫粒合作', '大灶熬煮見學', '蔡爸招牌烤雞與當季竹筍餐', '採愛文芒果體驗', 'DIY 裝瓶帶回'] };
